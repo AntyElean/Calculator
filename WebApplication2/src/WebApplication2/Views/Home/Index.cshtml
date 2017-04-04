@@ -1,0 +1,15 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" ng-app="MyApp">
+<head>
+    <title></title>
+</head>
+<body ng-controller="CalcController as calc">
+    <input type="number" ng-model="firstNum" />
+    <input type="number" ng-model="secNum" />
+    <button ng-click="calc.add(firstNum, secNum)">add</button>
+    <output>{{calc.result}}</output>
+    
+    <script src="~/lib/angular/angular.js"></script>
+    <script src="~/ngApp/app.js"></script>
+    <script src="~/ngApp/controller.js"></script>
+</body>
+</html>

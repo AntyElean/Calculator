@@ -1,0 +1,8 @@
+c:\users\mbags\documents\visual studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\app.js
+c:\users\mbags\documents\visual studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\app.js.map
+c:\users\mbags\documents\visual studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\controller.js
+c:\users\mbags\documents\visual studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\controller.js.map
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\app.js
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\app.js.map
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\controller.js
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\WebApplication2\src\WebApplication2\wwwroot\ngApp\controller.js.map
